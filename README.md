@@ -4,6 +4,7 @@ Comparison of the projected EPA for Pass &amp; Rush plays given different scenar
 # Summary
 This program is intended to use the EP_Model establish by NFLScrapr to predict the EPA for rush vs pass plays in given scenarios.
 For each scenario, a weighted EPA is calculated for the "possible outcomes" for a rush play and for a pass play.
+
 For a rush play, the "possible outcomes" include:
   - Rush with success level 1
   - Rush with success level 2
